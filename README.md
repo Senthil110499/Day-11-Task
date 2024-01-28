@@ -3,7 +3,7 @@
 
 + Capital
 + Region
-+ Region
++ Name
 + Flag
 + Latlng
 + Country code
